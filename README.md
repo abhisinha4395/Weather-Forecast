@@ -26,8 +26,8 @@ pip install -r requirements.txt
 ```
 
 ### Usage
+Type the following command on your terminal
 ```
-cd Weather-Forecast
 jupyter notebook
 ```
 
