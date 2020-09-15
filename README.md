@@ -32,3 +32,4 @@ jupyter notebook
 ```
 
 This will automatically open a tab in your browser, if not go to ```http://localhost:8888```
+Then click on ```Weather_Forecast_OpenWeatherMap.ipynb``` to view the code
